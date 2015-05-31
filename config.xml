@@ -3,13 +3,13 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml  -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.inpws.aiscappnub"  
+        id        = "com.inpws.datingapp"  
         version   = "1.0.0">
 
-    <name>AISC</name>
+    <name>Dating App</name>
 
     <description>
-        AISC is an school app helping parents and students keep track of the school events
+       Dating test call app
     </description>
 
     <author href="http://www.inpws.com" email="info@inpws.com">
